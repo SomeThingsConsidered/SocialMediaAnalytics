@@ -10,6 +10,8 @@ I created this repository to store code, informative links etc. as I learn about
 #### Topic Modeling
 * Bryan Goodrich's github repository containing R code for [topic modeling using Twitter](https://gist.github.com/bryangoodrich/7b5ef683ce8db592669e/)
 * ["Dynamic Topic Modeling for Monitoring Market Competition from Online Text and Image Data"] (http://www.cs.cmu.edu/~hzhang2/projects/BrandCompetition/projectpage/kdd15_topic_marketcomp.pdf)
+* ["Discovering Health Topics in Social Media Using Topic Models"] (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103408)
+* [Empirical Study of Topic Modeling in Twitter] (http://snap.stanford.edu/soma2010/papers/soma2010_12.pdf)
 
 #### Network Analysis
 #### General References
