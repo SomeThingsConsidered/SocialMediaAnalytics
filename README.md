@@ -12,7 +12,7 @@ A repository to store code, informative links etc. about using online social med
 * ["Dynamic Topic Modeling for Monitoring Market Competition from Online Text and Image Data"] (http://www.cs.cmu.edu/~hzhang2/projects/BrandCompetition/projectpage/kdd15_topic_marketcomp.pdf)
 * ["Discovering Health Topics in Social Media Using Topic Models"] (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103408)
 * [Empirical Study of Topic Modeling in Twitter] (http://snap.stanford.edu/soma2010/papers/soma2010_12.pdf)
-* [Topic Modeling of Tweets in R: A Tutorial and Methodology] (https://www.academia.edu/19255535/Topic_Modeling_of_Tweets_in_R_A_Tutorial_and_Methodology)
+* [Topic Modeling of Tweets in R: A Tutorial and Methodology] (https://www.academia.edu/19255535/Topic_Modeling_of_Tweets_in_R_A_Tutorial_and_Methodology)  Uses the SocialMedialLab package in R.
 * [Twitter-Network Topic Model: A Full Bayesian Treatment for Social Network and Text Modeling] (http://users.cecs.anu.edu.au/~Chen.Changyou/nips_workshop2013.pdf)
 
 #### Network Analysis
