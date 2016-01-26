@@ -16,7 +16,7 @@ A repository to store code, informative links etc. about using online social med
 * [Twitter-Network Topic Model: A Full Bayesian Treatment for Social Network and Text Modeling] (http://users.cecs.anu.edu.au/~Chen.Changyou/nips_workshop2013.pdf)
 
 ### Sentiment Analysis
-*[State sentiment analysis using twitter live stream and R] (http://www.runzemc.com/2014/07/state-sentiment-analysis-using-twitter-live-stream-and-r.html)
+* [State sentiment analysis using twitter live stream and R] (http://www.runzemc.com/2014/07/state-sentiment-analysis-using-twitter-live-stream-and-r.html)
 
 
 #### Network Analysis
