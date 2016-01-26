@@ -1,7 +1,7 @@
 # SocialMediaAnalytics
 
 
-I created this repository to store code, informative links etc. as I learn about using online social media to gain insights about market trends.
+A repository to store code, informative links etc. about using online social media to gain insights about market trends.
 
 ## Useful Links
 #### Scrubbing Data
