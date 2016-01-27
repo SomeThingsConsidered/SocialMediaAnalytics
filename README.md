@@ -23,6 +23,9 @@ A repository to store code, informative links etc. about using online social med
 
 #### Social Media Analysis and Market Insight
 * [Social Media for Market Intelligence](https://www.m-brain.com/home/market-intelligence/social-media-for-market-intelligence/) Article on M-Brain from 2010.
+* [The Ultimate Guide to Social Media Intelligence](https://unmetric.com/social-media-intelligence/) from Unmetric.
+*  
+
 
 #### General References
 * [The Fall Of Buzzmetrics & Rise Of The New Social Media Analytics MR Firm](http://www.greenbookblog.org/2013/04/22/the-fall-of-buzzmetrics-rise-of-the-new-social-media-analytics-mr-firms/).  The article discusses Buzzmetrics, which previously had purchased Intelliseek.  Several researchers at the Intelliseek Applied Research Center had written ["Deriving Marketing Intelligence from Online Discussion"] (http://www.kamalnigam.com/papers/aw-kdd05.pdf)
