@@ -30,3 +30,4 @@ A repository to store code, informative links etc. about using online social med
 * [R package SocialMediaLab] (http://voson.anu.edu.au/SocialMediaLab)
 * [Open Calais, by Thomson Reuters] (http://www.opencalais.com/about/)
 * [Intelligent Tagging, by Thomson Reuters] (http://financial.thomsonreuters.com/en/products/infrastructure/trading-infrastructure/intelligent-tagging-text-analytics.html)
+* [Github repository](https://github.com/pablobarbera/data-science-workshop) for a NYU short course on Data Science and Social Science.  Includes Automated Textual Analysis, Social Network Analysis, and Web scraping & APIs.
