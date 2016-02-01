@@ -31,3 +31,4 @@ A repository to store code, informative links etc. about using online social med
 * [Open Calais, by Thomson Reuters] (http://www.opencalais.com/about/)
 * [Intelligent Tagging, by Thomson Reuters] (http://financial.thomsonreuters.com/en/products/infrastructure/trading-infrastructure/intelligent-tagging-text-analytics.html)
 * [Github repository](https://github.com/pablobarbera/data-science-workshop) for a NYU short course on Data Science and Social Science.  Includes Automated Textual Analysis, Social Network Analysis, and Web scraping & APIs.
+* [Data Science Tweet Analysis – What tools are people talking about?] (http://www.mango-solutions.com/wp/2015/05/data-science-tweet-analysis-what-tools-are-people-talking-about/) and [Analysing the Twitter Mentions Network] (http://www.mango-solutions.com/wp/2015/06/analysing-the-twitter-mentions-network/) from Mango Solutions in the UK
