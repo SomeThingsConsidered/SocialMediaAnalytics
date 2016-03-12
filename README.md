@@ -8,7 +8,7 @@ A repository to store code, informative links etc. about using online social med
 * [Spinn3r](http://spinn3r.com/).  No recent updates to Twitter account. Link to academic papers [using Spinn3r data](https://scholar.google.com/scholar?q=spinn3r/)
  
 #### Topic Modeling
-* [LASTA: Large Scale Topic Assignment on Multiple Social Networks](http://delivery.acm.org/10.1145/2630000/2623350/p1809-spasojevic.pdf?ip=108.16.226.25&id=2623350&acc=OA&key=4D4702B0C3E38B35%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35%2ECB187B888C8F0B14&CFID=760991639&CFTOKEN=79913413&__acm__=1457749343_94576abe0e31efeb5fc5bb541d950f2b)
+* [LASTA: Large Scale Topic Assignment on Multiple Social Networks](http://dl.acm.org/citation.cfm?id=2623350)
 * Bryan Goodrich's github repository containing R code for [topic modeling using Twitter](https://gist.github.com/bryangoodrich/7b5ef683ce8db592669e/)
 * ["Dynamic Topic Modeling for Monitoring Market Competition from Online Text and Image Data"] (http://www.cs.cmu.edu/~hzhang2/projects/BrandCompetition/projectpage/kdd15_topic_marketcomp.pdf)
 * ["Discovering Health Topics in Social Media Using Topic Models"] (http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0103408)
